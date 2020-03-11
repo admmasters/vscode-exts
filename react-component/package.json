@@ -46,6 +46,6 @@
     "@types/mocha": "^2.2.32"
   },
   "dependencies": {
-    "prettier": "^0.11.0"
+    "prettier": "^1.4.0"
   }
 }
