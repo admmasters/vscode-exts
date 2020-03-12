@@ -49,6 +49,6 @@
   },
   "dependencies": {
     "fs-extra": "^2.0.0",
-    "prettier": "^0.16.0"
+    "prettier": "^1.4.0"
   }
 }
